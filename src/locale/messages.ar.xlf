@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="ar" datatype="plaintext" original="ng2.template">
+    <body>
+      <!-- Navigation -->
+      <trans-unit id="home" datatype="html">
+        <source>الصفحة الرئيسية</source>
+        <target>الصفحة الرئيسية</target>
+      </trans-unit>
+      <trans-unit id="dashboards" datatype="html">
+        <source>لوحات التحكم</source>
+        <target>لوحات التحكم</target>
+      </trans-unit>
+      <trans-unit id="clinics-dashboard" datatype="html">
+        <source>لوحة تحكم العيادات</source>
+        <target>لوحة تحكم العيادات</target>
+      </trans-unit>
+      <trans-unit id="pharmacies-dashboard" datatype="html">
+        <source>لوحة تحكم الصيدليات</source>
+        <target>لوحة تحكم الصيدليات</target>
+      </trans-unit>
+      <trans-unit id="reports" datatype="html">
+        <source>التقارير</source>
+        <target>التقارير</target>
+      </trans-unit>
+      <trans-unit id="clinics-report" datatype="html">
+        <source>تقرير العيادات</source>
+        <target>تقرير العيادات</target>
+      </trans-unit>
+      <trans-unit id="pharmacies-report" datatype="html">
+        <source>تقرير الصيدليات</source>
+        <target>تقرير الصيدليات</target>
+      </trans-unit>
+      <trans-unit id="visits" datatype="html">
+        <source>الزيارات</source>
+        <target>الزيارات</target>
+      </trans-unit>
+      <trans-unit id="add-clinic-visit" datatype="html">
+        <source>تسجيل زيارة عيادة</source>
+        <target>تسجيل زيارة عيادة</target>
+      </trans-unit>
+      <trans-unit id="add-pharmacy-visit" datatype="html">
+        <source>تسجيل زيارة صيدلية</source>
+        <target>تسجيل زيارة صيدلية</target>
+      </trans-unit>
+      <trans-unit id="requests" datatype="html">
+        <source>الطلبات</source>
+        <target>الطلبات</target>
+      </trans-unit>
+      <trans-unit id="sample-request" datatype="html">
+        <source>طلب عينات</source>
+        <target>طلب عينات</target>
+      </trans-unit>
+      <trans-unit id="sales-request" datatype="html">
+        <source>طلب نشاط تسويقي</source>
+        <target>طلب نشاط تسويقي</target>
+      </trans-unit>
+      <trans-unit id="manage-requests" datatype="html">
+        <source>ادارة الطلبات</source>
+        <target>ادارة الطلبات</target>
+      </trans-unit>
+      <trans-unit id="collections" datatype="html">
+        <source>التحصيلات</source>
+        <target>التحصيلات</target>
+      </trans-unit>
+      <trans-unit id="payment-collection" datatype="html">
+        <source>تحصيل مالي</source>
+        <target>تحصيل مالي</target>
+      </trans-unit>
+      <trans-unit id="order-collection" datatype="html">
+        <source>تحصيل طلب</source>
+        <target>تحصيل طلب</target>
+      </trans-unit>
+      <trans-unit id="ratings" datatype="html">
+        <source>التقييمات</source>
+        <target>التقييمات</target>
+      </trans-unit>
+      <trans-unit id="rate-visits-rep" datatype="html">
+        <source>تقييم مندوب الزيارات</source>
+        <target>تقييم مندوب الزيارات</target>
+      </trans-unit>
+      <trans-unit id="general-management" datatype="html">
+        <source>الادارة العامة</source>
+        <target>الادارة العامة</target>
+      </trans-unit>
+      <trans-unit id="work-days-management" datatype="html">
+        <source>ادارة ايام العمل</source>
+        <target>ادارة ايام العمل</target>
+      </trans-unit>
+      <trans-unit id="sheets-management" datatype="html">
+        <source>ادارة المستندات</source>
+        <target>ادارة المستندات</target>
+      </trans-unit>
+      <trans-unit id="lost-orders-management" datatype="html">
+        <source>ادارة الطلبيات المفقودة</source>
+        <target>ادارة الطلبيات المفقودة</target>
+      </trans-unit>
+      <trans-unit id="user-management" datatype="html">
+        <source>ادارة المستخدميين</source>
+        <target>ادارة المستخدميين</target>
+      </trans-unit>
+      <trans-unit id="add-user" datatype="html">
+        <source>اضافة مستخدم</source>
+        <target>اضافة مستخدم</target>
+      </trans-unit>
+
+      <!-- Login Page -->
+      <trans-unit id="login" datatype="html">
+        <source>تسجيل الدخول</source>
+        <target>تسجيل الدخول</target>
+      </trans-unit>
+      <trans-unit id="login-to-account" datatype="html">
+        <source>سجل الدخول الى حسابك</source>
+        <target>سجل الدخول الى حسابك</target>
+      </trans-unit>
+      <trans-unit id="username" datatype="html">
+        <source>اسم المستخدم</source>
+        <target>اسم المستخدم</target>
+      </trans-unit>
+      <trans-unit id="password" datatype="html">
+        <source>كلمة المرور</source>
+        <target>كلمة المرور</target>
+      </trans-unit>
+
+      <!-- Common Terms -->
+      <trans-unit id="save" datatype="html">
+        <source>حفظ</source>
+        <target>حفظ</target>
+      </trans-unit>
+      <trans-unit id="cancel" datatype="html">
+        <source>إلغاء</source>
+        <target>إلغاء</target>
+      </trans-unit>
+      <trans-unit id="close" datatype="html">
+        <source>إغلاق</source>
+        <target>إغلاق</target>
+      </trans-unit>
+      <trans-unit id="edit" datatype="html">
+        <source>تعديل</source>
+        <target>تعديل</target>
+      </trans-unit>
+      <trans-unit id="delete" datatype="html">
+        <source>حذف</source>
+        <target>حذف</target>
+      </trans-unit>
+      <trans-unit id="search" datatype="html">
+        <source>بحث</source>
+        <target>بحث</target>
+      </trans-unit>
+      <trans-unit id="loading" datatype="html">
+        <source>جاري التحميل...</source>
+        <target>جاري التحميل...</target>
+      </trans-unit>
+      <trans-unit id="no-data" datatype="html">
+        <source>لا توجد بيانات</source>
+        <target>لا توجد بيانات</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
